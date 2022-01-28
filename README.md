@@ -2,7 +2,7 @@
 
 What we in the security world would call a 'Backdoor'.
 
-This backdoor is used to gain access t, execute commands, download and upload files in both directions (from server to target and vice versa)
+This backdoor is used to gain access to, execute commands, download and upload files in both directions (from server to target and vice versa)
 
 Only things needed are your Kali Linux machine which will be used as your server for the server.py file and a target machine which will be used to run the backdoor.py file.
 
